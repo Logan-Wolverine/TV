@@ -1,7 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=1960x540
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
