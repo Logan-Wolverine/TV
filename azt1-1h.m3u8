@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=1960x540
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
